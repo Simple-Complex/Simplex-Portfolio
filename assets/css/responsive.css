@@ -1,0 +1,33 @@
+/*
+
+	BUILT BY REXS DEVELOPMENT & DESIGN
+	BUILT FOR PLOXHOST.COM (ALL RIGHTS RESERVED)
+
+*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 426px){
+  #footer {
+    text-align: center;
+  }
+  .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+      margin-bottom: 28px;
+      text-align: center;
+  }
+}
+@media only screen and (min-device-width: 680px) and (max-device-width: 768px) {
+  #footer {
+    text-align: center;
+  }
+}
+@media only screen and (min-device-width: 995px) and  (max-device-width: 1025px) {
+  #footer {
+    text-align: center;
+  }
+}
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) {
+}
+@media screen and (min-device-width: 1601px) and (max-device-width: 1921px){
+
+}
+@media screen and (min-device-width: 1922px){
+
+}
