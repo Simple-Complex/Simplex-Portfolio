@@ -1,14 +1,5 @@
 #Simplex Portfolio
-######A Simple portfolio site with multiple themes precluded.
-
-Simplex portfolio is a simple to use, clean user-friendly mobile responsive single-page template. 
-
-##Tools used:
-- Bootstrap
-- Fontawesome
-- jQuery
-#Simplex Portfolio
-######A Simple portfolio site with multiple themes precluded.
+#####A Simple portfolio site with multiple themes precluded.
 
 Simplex portfolio is a simple to use, clean user-friendly mobile responsive single-page template. 
 
