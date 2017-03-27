@@ -1,14 +1,14 @@
-#Simplex Portfolio
-#####A Simple portfolio site with multiple themes precluded.
+# Simplex Portfolio
+##### A Simple portfolio site with multiple themes precluded.
 
 Simplex portfolio is a simple to use, clean user-friendly mobile responsive single-page template. 
 
-##Tools used:
+## Tools used:
 - Bootstrap
 - Fontawesome
 - jQuery
 
-##Config Options 
+## Config Options 
 - Site name
 - Site Theme/template 
  - blue-light [Preview](https://projects.rexsdev.com/simplex-portfolio/simplex-blue-light/)
@@ -16,5 +16,5 @@ Simplex portfolio is a simple to use, clean user-friendly mobile responsive sing
  - red-light [Preview](https://projects.rexsdev.com/simplex-portfolio/simplex-red-light/) 
  - red-dark [Preview](https://projects.rexsdev.com/simplex-portfolio/simplex-red-dark/) 
  
-##License
+## License
 Free to use as long as the linkback in the footer stays. 
