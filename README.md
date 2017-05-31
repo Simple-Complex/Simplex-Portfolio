@@ -16,5 +16,3 @@ Simplex portfolio is a simple to use, clean user-friendly mobile responsive sing
  - red-light [Preview](https://projects.rexsdev.com/simplex-portfolio/simplex-red-light/) 
  - red-dark [Preview](https://projects.rexsdev.com/simplex-portfolio/simplex-red-dark/) 
  
-## License
-Free to use as long as the linkback in the footer stays. 
